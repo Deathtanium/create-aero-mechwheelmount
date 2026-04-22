@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "mechwheelmount:block/wheel_mount/block",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "mechwheelmount:block/wheel_mount/block",
+      "y": 0
+    },
+    "facing=west": {
+      "model": "mechwheelmount:block/wheel_mount/block",
+      "y": 90
+    },
+    "facing=east": {
+      "model": "mechwheelmount:block/wheel_mount/block",
+      "y": 270
+    }
+  }
+}

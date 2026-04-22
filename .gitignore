@@ -1,0 +1,10 @@
+/.gradle/
+/build/
+/run/
+/out/
+
+/inspiration-simulated/
+/tmp_wheel_mount_models/
+/tmp_offroad_textures/
+/src/main/resources/assets/mechwheelmount/tmp_offroad_textures/
+/.cache/
