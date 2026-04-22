@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.deathtanium.mechwheelmount.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "KineticBlockEntityMixin",
+    "KineticBlockMixin",
+    "KineticNetworkMixin",
+    "GeneratingKineticBlockEntityMixin",
+    "RotationPropagatorMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

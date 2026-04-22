@@ -1,0 +1,17 @@
+{
+  "block.mechwheelmount.steerable_wheel_mount": "Steerable Wheel Mount",
+  "item.mechwheelmount.steerable_wheel_mount": "Steerable Wheel Mount",
+  "mechwheelmount.scroll_option.suspension_strength": "Suspension Strength",
+  "mechwheelmount.scroll_option.suspension_strength_label": "Strength",
+  "mechwheelmount.scroll_option.input_ratio": "Input to Tire Ratio",
+  "mechwheelmount.scroll_option.input_ratio_label": "Input Ratio",
+  "block.mechwheelmount.steerable_wheel_mount.tooltip.summary": "Carries tire-like items and supports kinetic steering input from the top.",
+  "block.mechwheelmount.steerable_wheel_mount.tooltip.condition1": "With empty hand on the bottom",
+  "block.mechwheelmount.steerable_wheel_mount.tooltip.behaviour1": "Configure _suspension strength_.",
+  "block.mechwheelmount.steerable_wheel_mount.tooltip.condition2": "With wrench on the bottom",
+  "block.mechwheelmount.steerable_wheel_mount.tooltip.behaviour2": "Configure _input-to-tire ratio_.",
+  "block.mechwheelmount.steerable_wheel_mount.tooltip.condition3": "With wrench on the tire side",
+  "block.mechwheelmount.steerable_wheel_mount.tooltip.behaviour3": "Reset steering angle to _zero_.",
+  "block.mechwheelmount.steerable_wheel_mount.tooltip.condition4": "When steering exceeds 45 degrees",
+  "block.mechwheelmount.steerable_wheel_mount.tooltip.behaviour4": "Attached tire _breaks and drops_."
+}
